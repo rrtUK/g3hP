@@ -4,6 +4,8 @@ title: 02_staticHTML
 ---
 
 # staticHTML site #
+---
+---
 
 ## ToC ##
 - ToC
@@ -11,7 +13,8 @@ title: 02_staticHTML
 - parameters
 - playbook
 - original tutorial notes
-
+---
+---
 
 ## use cases ##
 
@@ -30,7 +33,7 @@ dC2
 oC2
   - dex various
   - event notices
-
+---
 
 ## parameters ##
 
@@ -39,15 +42,17 @@ static ONLY
 CDNs preferable where applicable
 
 data and update-cadence metering
+---
+---
 
 ## playbook ##
-
+---
 ### prepro ###
 
 LYSiTaS, ID executable via 16m_nmpm process (rhs = desired end state, lhs = executable)
 inventory of required media items for include
 inventory of required copy items for include
-
+---
 ### build program / executable ###
 
 create repo
@@ -75,12 +80,13 @@ build page
 - save (if applicable)
 - refresh till button greens
 - select when greened
-
+---
+---
 
 ### post production ###
 
 testback vs rhs (desired end state)
-
+---
 
 ## original tutorial notes ##
 
@@ -98,7 +104,7 @@ Create new file;  {index.html};  paste source copy in;  comment, commit;
 
 Settings;  GitHub Pages;  source;  master branch;  save (if app);  then open when green;
 
-
+---
 
 
 
