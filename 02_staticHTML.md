@@ -11,7 +11,7 @@ title: 02_staticHTML
 ---
 ---
 
-## ToC ##
+## s01 ToC ##
 - ToC
 - use cases
 - parameters
@@ -21,7 +21,7 @@ title: 02_staticHTML
 ---
 ---
 
-## use cases ##
+## s02 use cases ##
 
 L-gen
   - general use
@@ -41,7 +41,7 @@ oC2
   
 ---
 
-## parameters ##
+## s03 parameters ##
 
 static ONLY
 
@@ -52,11 +52,11 @@ data and update-cadence metering
 ---
 ---
 
-## playbook ##
+## s04 playbook ##
 
 ---
 
-### prepro ###
+### s04a prepro ###
 
 LYSiTaS, ID executable via 16m_nmpm process (rhs = desired end state, lhs = executable)
 inventory of required media items for include
@@ -64,7 +64,7 @@ inventory of required copy items for include
 
 ---
 
-### build program / executable ###
+### s04b build program / executable ###
 
 create repo
 - gH sign in
@@ -95,13 +95,13 @@ build page
 ---
 ---
 
-### post production ###
+### s04c post production ###
 
 testback vs rhs (desired end state)
 
 ---
 
-## original tutorial notes ##
+## s05 original tutorial notes ##
 
 //////////////////////////////////////////////////////////////////////
 
