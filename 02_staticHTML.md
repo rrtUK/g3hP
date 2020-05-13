@@ -3,7 +3,11 @@ layout: page
 title: 02_staticHTML
 ---
 
+
+---
+
 # staticHTML site #
+
 ---
 ---
 
@@ -13,6 +17,7 @@ title: 02_staticHTML
 - parameters
 - playbook
 - original tutorial notes
+
 ---
 ---
 
@@ -33,6 +38,7 @@ dC2
 oC2
   - dex various
   - event notices
+  
 ---
 
 ## parameters ##
@@ -42,17 +48,22 @@ static ONLY
 CDNs preferable where applicable
 
 data and update-cadence metering
+
 ---
 ---
 
 ## playbook ##
+
 ---
+
 ### prepro ###
 
 LYSiTaS, ID executable via 16m_nmpm process (rhs = desired end state, lhs = executable)
 inventory of required media items for include
 inventory of required copy items for include
+
 ---
+
 ### build program / executable ###
 
 create repo
@@ -80,6 +91,7 @@ build page
 - save (if applicable)
 - refresh till button greens
 - select when greened
+
 ---
 ---
 
