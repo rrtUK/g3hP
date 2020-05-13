@@ -1,0 +1,11 @@
+# basic info
+title: g3hP reference
+author: red bullion
+email: r3d@redbullion.com
+description: redux from Evan Williamson's "go-go gh-pages!" multi-format resource
+twitter_username: tbd+rrtUK
+github_username:  rrtUK
+
+# Build settings
+markdown: kramdown
+theme: minima
