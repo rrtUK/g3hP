@@ -12,11 +12,11 @@ title: 02_staticHTML
 ---
 
 ## s01 ToC ##
-- ToC
-- use cases
-- parameters
-- playbook
-- original tutorial notes
+- s01 ToC
+- s02 use cases
+- s03 parameters
+- s04 playbook
+- s05 original tutorial notes
 
 ---
 ---
