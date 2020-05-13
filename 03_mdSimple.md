@@ -32,10 +32,10 @@ L-info stripped-down uses e.g. OtF page standups
 
 ## p03s03 parameters ##
 
-no index
-no Jekyll theme choice
-editing the ReadMe.md file
-no yaml config file
+no index<br/>
+no Jekyll theme choice<br/>
+editing the ReadMe.md file<br/>
+no yaml config file<br/>
 
 ---
 ---
