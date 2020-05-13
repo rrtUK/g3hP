@@ -66,11 +66,6 @@ create repo
 - init wi ReadMe
 - create repo button
 
-blank the ReadMe
-- select ReadMe
-- open editor
-- manually blank the copy
-- comment / commit
 
 edit ReadMe.md index-proxy
 - select ReadMe.md
