@@ -83,7 +83,25 @@ edit ReadMe.md index-proxy
 - comment / commit
 
 create yaml config file
+- in `newRepoName`
+- create new file called `_config.yml` 
+- starter config file copy
 
+> # basic info
+> title: 2nd multipage test
+> author: red bullion
+> email: r3d@redbullion.com
+> description: attempt to replicate in van same as sf-iteration
+> twitter_username: tbd+rrtUK
+> github_username:  rrtUK
+
+> # Build settings
+> markdown: kramdown
+> theme: minima
+
+- customize
+- comment
+- commit
 
 create page (00:46:20)
 
