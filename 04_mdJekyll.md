@@ -94,7 +94,6 @@ create yaml config file
 > description: attempt to replicate in van same as sf-iteration<br/>
 > twitter_username: tbd+rrtUK<br/>
 > github_username:  rrtUK<br/>
-<br/>
 > # Build settings<br/>
 > markdown: kramdown<br/>
 > theme: minima<br/>
