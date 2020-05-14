@@ -87,17 +87,17 @@ create yaml config file
 - create new file called `_config.yml` 
 - starter config file copy
 
-> # basic info
-> title: 2nd multipage test
-> author: red bullion
-> email: r3d@redbullion.com
-> description: attempt to replicate in van same as sf-iteration
-> twitter_username: tbd+rrtUK
-> github_username:  rrtUK
-
-> # Build settings
-> markdown: kramdown
-> theme: minima
+> # basic info<br/>
+> title: 2nd multipage test<br/>
+> author: red bullion<br/>
+> email: r3d@redbullion.com<br/>
+> description: attempt to replicate in van same as sf-iteration<br/>
+> twitter_username: tbd+rrtUK<br/>
+> github_username:  rrtUK<br/>
+<br/>
+> # Build settings<br/>
+> markdown: kramdown<br/>
+> theme: minima<br/>
 
 - customize
 - comment
