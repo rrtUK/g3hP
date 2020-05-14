@@ -69,14 +69,13 @@ create repo
 - init wi ReadMe
 - create repo button
 
+blank the ReadMe
+- select ReadMe
+- open editor
+- manually blank the copy
+- comment
+- commit
 
-edit ReadMe.md index-proxy
-- select ReadMe.md
-- select 'edit' (pencil icon)
-- create or paste md copy in
-    - FILL A STANDARD JUMBO with copy
-    - include linked images where applicable
-- comment / commit
 
 create yaml config file
 - in `newRepoName`
