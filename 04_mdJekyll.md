@@ -117,22 +117,6 @@ create page (00:46:20)
 - comment
 - commit
 
-create posts
-- in `newRepoName`
-- create new folder called `_posts/` 
-- create post called `2020-MM-DD-<postname>.md`
-- add yaml front matter
-
-> ---
-> layout: post<br/>
-> title: <postname><br/>
-> ---
-
-- enter post copy, images, links
-- customize further if applicable
-- comment
-- commit
-
 
 build site
 - settings
@@ -145,13 +129,13 @@ build site
 ---
 ---
 
-### p03s04c post production ###
+### p05s04c post production ###
 
 testback vs rhs (desired end state)
 
 ---
 
-## p03s05 original tutorial notes ##
+## p05s05 original tutorial notes ##
 
 //////////////////////////////////////////////////////////////////////
 s02a	:  mdFormat one-sheet (22:00) Auto Theme Chooser (Jekyll, markdown, no-index)
