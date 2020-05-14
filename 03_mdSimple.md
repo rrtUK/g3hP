@@ -3,8 +3,6 @@ layout: page
 title: 03_mdSimple
 ---
 
-## 03_mdSimple ##
-
 simple 1-sheet page from markdown
 
 ---
