@@ -2,7 +2,7 @@
 this reference site summarizes EvanWill's outstanding online resources:<br/>
 
 website
-[Build a Website with Jekyll and GitHub Pages(https://evanwill.github.io/go-go-ghpages/)<br/>
+[Build a Website with Jekyll and GitHub Pages](https://evanwill.github.io/go-go-ghpages/)<br/>
 
 youtube tutorial
 [Go Go gh-pages! Build a website with GitHub Pages and Jekyll (workshop)](https://www.youtube.com/watch?v=SWVjQsvQocA)<br/>
