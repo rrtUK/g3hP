@@ -117,8 +117,22 @@ create page (00:46:20)
 - comment
 - commit
 
+create posts
+- in `newRepoName`
+- create new folder called `_posts/` 
+- create post called `2020-MM-DD-<postname>.md`
+- add yaml front matter
 
-FRONTLINE
+> ---
+> layout: post<br/>
+> title: <postname><br/>
+> ---
+
+- enter post copy, images, links
+- customize further if applicable
+- comment
+- commit
+
 
 build site
 - settings
