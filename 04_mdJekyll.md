@@ -103,7 +103,19 @@ create yaml config file
 - commit
 
 create page (00:46:20)
+- in `newRepoName`
+- create new file called `<filename>.md` 
+- starter generic page copy
 
+> ---
+> layout: page<br/>
+> title: <filename><br/>
+> ---
+
+- enter copy, images, links
+- customize further if applicable
+- comment
+- commit
 
 
 FRONTLINE
