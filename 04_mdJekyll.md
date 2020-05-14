@@ -129,13 +129,13 @@ build site
 ---
 ---
 
-### p05s04c post production ###
+### p04s04c post production ###
 
 testback vs rhs (desired end state)
 
 ---
 
-## p05s05 original tutorial notes ##
+## p04s05 original tutorial notes ##
 
 //////////////////////////////////////////////////////////////////////
 s02a	:  mdFormat one-sheet (22:00) Auto Theme Chooser (Jekyll, markdown, no-index)
