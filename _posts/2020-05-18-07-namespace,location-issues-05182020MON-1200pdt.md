@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 07 namespace, location issues 05182020MON-1200pdt
+title: 07 namespace, location issues
 ---
 
 ##  Next Issues to Address  ##
