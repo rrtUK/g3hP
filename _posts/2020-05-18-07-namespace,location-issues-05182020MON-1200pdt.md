@@ -24,6 +24,7 @@ c-facing prjx
 platform prjx
 - 211STA:21s_b2s
 - 190FRE:10f_cmndSchl
+- 225WEB:25w_bscT
 - 053ASH:03a_sC strtClb
 - 153SUT:13s_wZa
 - 162GUE:12g_sldg
