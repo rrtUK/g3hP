@@ -14,6 +14,12 @@ learning options
 - 652HAI:62h_XekP           executive platform
 - 652HAI:62h_dAcd           distributed academy
 
+| learning options | 
+| --- | --- |
+| 101CHA:11c_cRs |courseREsource | 
+| 652HAI:62h_XekP | executive platform | 
+| 652HAI:62h_dAcd | distributed academy | 
+
 knowledge repos
 - 055NIC(ip):05n(i)_illPri  illustrated primer
 - 122HOW:12h_my-a           memetic indexing and epidemiology
