@@ -7,7 +7,7 @@ title: 11 productization plan
 
 ###  display, surfacing  ###
 
-decided:  "virtualectric" aka "Project Presidio 653PRE:63p_vUL" as a community edition (freemium) product
+decided:  "VirtualEra" aka "Project Presidio 653PRE:63p_vUL" as a community edition (freemium) product
 
 surface directly, via 653PRE.ga
 
